@@ -7,7 +7,7 @@
 * Start mongodb at your server
 * Start your backend server
     * Enter the server folder and write next command to terminal and enter
-* * "npm run start"
+    * "npm run start"
     * for development start  "npm run devStart"
 * Run react project
     * Enter the main project folder and write next command to terminal and enter
