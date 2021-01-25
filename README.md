@@ -1,3 +1,22 @@
+# What is required for project
+* node
+* npm
+* mongodb
+
+# What is required for project
+* Start mongodb at your server
+* Start your backend server
+    * Enter the server folder and write next command to terminal and enter
+* * "npm run start"
+    * for development start  "npm run devStart"
+* Run react project
+    * Enter the main project folder and write next command to terminal and enter
+    * npm start
+* React project will run at port 3000
+* Backend will run at port 4000
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
